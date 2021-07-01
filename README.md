@@ -460,9 +460,15 @@ $$
 $$
 我们称职这个量为“力矩”以用来对应力这一概念
 
- 
+ 角动量守恒可以与动量守恒一起应用
 
+![image-20210630155903360](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210630155903360.png)
 
+第一阶段我们通过能量守恒计算出了下落时细棒的角速度大小，借此我们可以计算出角动量大小
+
+而碰撞前后外力矩为0，应用动量守恒，有
+
+![image-20210630160103617](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210630160103617.png)
 
 
 
